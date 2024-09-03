@@ -1,3 +1,2 @@
 # webide
-# install http server
-# open server
+# create index.html
