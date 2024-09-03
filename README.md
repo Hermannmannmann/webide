@@ -1,2 +1,3 @@
 # webide
-# index.html
+# install http server
+# open server
